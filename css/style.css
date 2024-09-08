@@ -421,8 +421,16 @@ a.active {
     margin-bottom: 1.2em;
     padding: 0.25em 1em 0.2em 1em;
 }
+.timeline-items{
+    padding-bottom: 1.5em;
+}
+.timeline-item{
+    padding-bottom: 0.8em;
+}
 
-
+.timeline-item p{
+    padding-bottom: 0.3em!important;
+}
 /* projects section
 ==================================================*/
 
@@ -611,7 +619,7 @@ a.active {
 
 #contact {
     padding: 100px 0;
-    background: #f3f3f3
+    background: #fff;
 }
 
 #contact-form input,
